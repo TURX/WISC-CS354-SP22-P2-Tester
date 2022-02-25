@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: MZKLPRB CKU  DEUG
+Which rotors will be used to encrypt the message: 463
+Enter the number of rotations to apply to the encryption rotors: 15
+The encrypted message is: NLXGFPW VXZ  TAZY
+The decrypted message is: MZKLPRB CKU  DEUG

@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: I LOVE C PROGRAMMING
+Which rotors will be used to encrypt the message: 8
+Enter the number of rotations to apply to the encryption rotors: 25
+The encrypted message is: B PRUL H AEROEKDDBZO
+The decrypted message is: I LOVE C PROGRAMMING

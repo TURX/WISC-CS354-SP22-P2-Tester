@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: WISCONSIN MADISON
+Which rotors will be used to encrypt the message: 71
+Enter the number of rotations to apply to the encryption rotors: 7
+The encrypted message is: CSHRXIHSI NLFSHXI
+The decrypted message is: WISCONSIN MADISON

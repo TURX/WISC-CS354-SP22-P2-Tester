@@ -1,0 +1,31 @@
+Enter the message to be encrypted or decrypted: WHATS ANOTHER WORD FOR THESAURUS
+Num of chars read including newline: 33
+Which rotors will be used to encrypt the message: 8721
+Num of chars read including newline: 5
+Enter the number of rotations to apply to the encryption rotors: 22
+Inside Set_Up_Rotors
+i = 0  which_rotors[i] = 56 (<= in char not in int)
+ROTOR_CONSTANTS FKQHTLXOCBJSPDZRAMEWNIUYGV
+i = 1  which_rotors[i] = 55 (<= in char not in int)
+ROTOR_CONSTANTS NZJHGRCXMYSWBOUFAIVLPEKQDT
+i = 2  which_rotors[i] = 50 (<= in char not in int)
+ROTOR_CONSTANTS AJDKSIRUXBLHWTMCQGZNPYFVOE
+i = 3  which_rotors[i] = 49 (<= in char not in int)
+ROTOR_CONSTANTS EKMFLGDQVZNTOWYHXUSPAIBRCJ
+Exiting Set_Up_Rotors
+Inside Apply_Rotation
+Second Half: FKQH
+First Half: TLXOCBJSPDZRAMEWNIUYGV
+rotatedString TLXOCBJSPDZRAMEWNIUYGVFKQH
+Second Half: NZJH
+First Half: GRCXMYSWBOUFAIVLPEKQDT
+rotatedString GRCXMYSWBOUFAIVLPEKQDTNZJH
+Second Half: AJDK
+First Half: SIRUXBLHWTMCQGZNPYFVOE
+rotatedString SIRUXBLHWTMCQGZNPYFVOEAJDK
+Second Half: EKMF
+First Half: LGDQVZNTOWYHXUSPAIBRCJ
+rotatedString LGDQVZNTOWYHXUSPAIBRCJEKMF
+Exiting Apply_Rotation
+The encrypted message is: QXPRC PBARXIO QAOV MAO RXICPZOZC
+The decrypted message is: WHATS ANOTHER WORD FOR THESAURUS

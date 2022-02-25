@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: COMPUTER SCIENCE
+Which rotors will be used to encrypt the message: 24
+Enter the number of rotations to apply to the encryption rotors: 5
+The encrypted message is: NCLJMABF XNZBTNB
+The decrypted message is: COMPUTER SCIENCE

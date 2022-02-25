@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: MARCH IN PURPLE
+Which rotors will be used to encrypt the message: 71
+Enter the number of rotations to apply to the encryption rotors: 7
+The encrypted message is: NLTRD SI GQTGJZ
+The decrypted message is: MARCH IN PURPLE

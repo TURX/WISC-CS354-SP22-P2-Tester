@@ -1,0 +1,31 @@
+Enter the message to be encrypted or decrypted: HERO
+Num of chars read including newline: 5
+Which rotors will be used to encrypt the message: 8721
+Num of chars read including newline: 5
+Enter the number of rotations to apply to the encryption rotors: 5
+Inside Set_Up_Rotors
+i = 0  which_rotors[i] = 56 (<= in char not in int)
+ROTOR_CONSTANTS FKQHTLXOCBJSPDZRAMEWNIUYGV
+i = 1  which_rotors[i] = 55 (<= in char not in int)
+ROTOR_CONSTANTS NZJHGRCXMYSWBOUFAIVLPEKQDT
+i = 2  which_rotors[i] = 50 (<= in char not in int)
+ROTOR_CONSTANTS AJDKSIRUXBLHWTMCQGZNPYFVOE
+i = 3  which_rotors[i] = 49 (<= in char not in int)
+ROTOR_CONSTANTS EKMFLGDQVZNTOWYHXUSPAIBRCJ
+Exiting Set_Up_Rotors
+Inside Apply_Rotation
+Second Half: FKQHTLXOCBJSPDZRAMEWN
+First Half: IUYGV
+rotatedString IUYGVFKQHTLXOCBJSPDZRAMEWN
+Second Half: NZJHGRCXMYSWBOUFAIVLP
+First Half: EKQDT
+rotatedString EKQDTNZJHGRCXMYSWBOUFAIVLP
+Second Half: AJDKSIRUXBLHWTMCQGZNP
+First Half: YFVOE
+rotatedString YFVOEAJDKSIRUXBLHWTMCQGZNP
+Second Half: EKMFLGDQVZNTOWYHXUSPA
+First Half: IBRCJ
+rotatedString IBRCJEKMFLGDQVZNTOWYHXUSPA
+Exiting Apply_Rotation
+The encrypted message is: KPYF
+The decrypted message is: HERO

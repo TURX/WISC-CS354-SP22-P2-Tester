@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted: IRONMAN VS BATMAN
+Which rotors will be used to encrypt the message: 1287
+Enter the number of rotations to apply to the encryption rotors: 25
+The encrypted message is: WNXBEHB PO UHSEHB
+The decrypted message is: IRONMAN VS BATMAN

@@ -1,0 +1,5 @@
+Enter the message to be encrypted or decrypted:    H O M E   S W E E T   H O M E
+Which rotors will be used to encrypt the message: 71
+Enter the number of rotations to apply to the encryption rotors: 7
+The encrypted message is:    D X N Z   H C Z Z A   D X N Z
+The decrypted message is:    H O M E   S W E E T   H O M E
